@@ -1,6 +1,11 @@
-# Unity PID Lab (2022)
+# Unity PID Lab (KMITL Engineering Project 2022)
 A PID Controlller Lab built with Unity Game Engine demonstrates the implementation of a Transfer function in C#.<br/>
-[Visit Research Gate](https://www.researchgate.net/publication/363436333_Interactive_Virtual_Experimental_Setup_for_Control_Systems_on_the_Unity_Game_Engine)
+[Visit Research Gate](https://www.researchgate.net/publication/363436333_Interactive_Virtual_Experimental_Setup_for_Control_Systems_on_the_Unity_Game_Engine)<br/>
+
+### Contributors
+* [Tanaporn Sutham](https://www.linkedin.com/in/tanaporn-sutham-527157220/): 3D Artist and Game Designer.
+* (Me) [Tanaphon Sriyim](https://www.linkedin.com/in/tanaphon-sriyim/): Software Developer and Math Implementation.
+* Nattawoot Depaiwa: Professor.
 
 ## Systems
 ### Ball-Beam: Motor position
